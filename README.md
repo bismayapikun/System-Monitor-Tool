@@ -1,4 +1,4 @@
-System Monitor Tool (Capstone Project)
+##System Monitor Tool (Capstone Project)
 
 
 A console-based System Monitor Tool written in C++ that displays real-time system information like CPU usage, memory consumption, and active processes.
