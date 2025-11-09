@@ -42,7 +42,7 @@ make
 ```
 ## 4. Run the tool
 ```
-./monitor
+./sysmon
 ```
 ## 🎮 Controls
 Command                     Action
